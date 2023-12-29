@@ -1,0 +1,2 @@
+# mym
+practise of js
